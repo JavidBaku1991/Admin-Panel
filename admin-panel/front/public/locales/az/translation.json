@@ -1,0 +1,90 @@
+{
+    "admin-name":"CAVİD ƏLƏKBƏRLİ",
+    "programmer":"proqramçı",
+    "welcome-to-react":"Reacta xos geldiniz",
+    "name-label":"Ad",
+    "lastname-label":"Soyad",
+    "number":"Əlaqə",
+    "password":"Şifrə",
+    "actions-label":"Hərəkətlər",
+    "email-label":"Email",
+    "date-label":"Tarix",
+    "active-label":"Aktivlik",
+    "customer-label":"Müştəri",
+    "description-label":"Ətraflı",
+
+
+
+    "address":"Adres",
+    "add-label":"Əlavə et",
+    "activeness-label":"Aktivdir",
+    "admin-label":"Admindir",
+
+    "panel-name":"MƏNİM ADMİN PANELİM",
+    "search-name":"Axtar",
+    "panel-menu":"Menyu",
+    "users-name":"İSTİFADƏÇİLƏR",
+    "customers-name":"MÜŞTƏRİLƏR",
+    "employees-name":"İŞÇİLƏR",
+    "products-name":"MƏHSULLAR",
+    "sales-name":"SATIŞLAR",
+    "calendar-name":"TƏQVİM",
+    "works-name":"İşlərimiz",
+    "faqs-name":"Sual-Cavab",
+    "total-sale":"Ümumi Satış",
+    "date":"Tarix",
+    "details":"Məlumat",
+    "choose":"Seçin",
+
+    "add-user-button":"YENİ İSTİFADƏÇİ ƏLAVƏ ET",
+    "add-customer-button":"YENİ MÜŞTƏRİ ƏLAVƏ ET",
+    "add-employee-button":"YENİ İŞÇİ ƏLAVƏ ET",
+    "add-products-button":"YENİ MƏHSUL ƏLAVƏ ET",
+
+    "events":"HADİSƏLƏR",
+    "fullCalendar": {
+      "dayNames": ["Bazar", "Bazar Ertəsi", "Çərşənbə axşamı", "Çərşənbə", "Cümə axşamı", "Cümə", "Şəmbə"],
+      "monthNames": ["Yanvar", "Fevral", "Mart", "Aprel", "May", "İyun", "İyul", "Avqust", "Sentyabr", "Oktyabr", "Noyabr", "Dekabr"]
+    },
+
+    "faq":"SUAL-CAVAB",
+    "faq-sub":"Tez-tez veriləm suallar",
+
+
+    "charts":"DİAQRAMLAR",
+    "bar-chart":"Düz Diaqram",
+    "bar-chart-header":"DÜZ DİAQRAM",
+    "bar-chart-header-sub":"Sadə düz diaqram",
+    "pie-chart":"Dairəvi Diaqram",
+    "pie-chart-header":"DAİRƏVİ DİAQRAM",
+    "pie-chart-header-sub":"Sadə dairəvi diaqram",
+    "line-chart":"Xəttli Diaqram",
+    "line-chart-header":"XƏTTLİ DİAQRAM",
+    "line-chart-header-sub":"Sadə xəttli diaqram",
+    "geo-chart":"Geo Diaqram",
+    "geo-chart-header":"COĞRAFİ DİAQRAM",
+    "geo-chart-header-sub":"Sadə coğrafi diaqram",
+
+    "sales-title-stat":"Satılan Məhsullar",
+    "clients-title-stat":"Yeni Müştərilər",
+    "trafic-title-stat":"Trafik",
+    "revenue-title-stat":"Əldə Edilən Gəlir",
+    "transaction-title-stat":"Son Köçürmələr",
+    "campaign":"Kampaniya",
+    "generated-revenue-title-stat":"əldə edilən gəlir",
+    "sales-quantity-title-stat":"Satışların Ümumi məbləği",
+    "geo-based-title-stat":"Coğrafi Əsasda Diaqram",
+    "campaign-sub":"Əlavə Xərclər Daxildir",
+
+    "transportation":"nəqliyyat",
+    "count":"say",
+    "contact-us":"BİZİMLƏ ƏLAQƏ",
+    "send":"GÖNDƏR"
+
+
+    
+
+
+
+
+  }

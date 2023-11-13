@@ -1,0 +1,62 @@
+.form{
+display: flex;
+flex-direction: column;
+border: 1px solid black;
+padding: 40px;
+box-shadow: -3px -3px 21px 19px rgba(0,0,0,0.75);
+-webkit-box-shadow: -3px -3px 21px 19px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px -3px 21px 19px rgba(0,0,0,0.75);
+align-items: center;
+text-align: center;
+width: 500px;
+}
+
+.form-contacts{
+position: relative;
+top:60px;
+margin: 50px 0px 50px 0px;
+display: flex;
+flex-direction: column;
+padding: 40px;
+
+align-items: center;
+text-align: center;
+width: 500px;
+}
+
+
+.control{
+    margin-bottom: 30px;
+    width: 450px;
+    border-radius:20px
+}
+
+
+
+.select{
+height: 50px;
+width: 450px;
+}
+
+.option{
+    background-color:#a1887f;
+
+}
+
+.login-button{
+    background-color: aqua;
+}
+
+.select{
+    width: 40px;
+    position: absolute;
+    right: 190px;
+    top:2px;
+
+}
+
+.map{
+    box-shadow: -5px 4px 17px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -5px 4px 17px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -5px 4px 17px 0px rgba(0,0,0,0.75);
+}

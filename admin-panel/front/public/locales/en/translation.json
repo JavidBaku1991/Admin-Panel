@@ -1,0 +1,90 @@
+{
+  "admin-name":"JAVID ALAKBARLI",
+  "programmer":"programmer",
+    "welcome-to-react":"And i18next",
+    "name-label":"Name",
+    "lastname-label":"Lastname",
+    "email-label":"Email",
+    "active-label":"Active",
+    "number":"Number",
+    "password":"Password",
+    "actions-label":"Actions",
+    "address":"Address",
+    "add-label":"Add",
+    "activeness-label":"Active",
+    "admin-label":"Admin",
+    "date-label":"Date",
+    "description-label":"Description",
+
+    "customer-label":"Customer",
+    "panel-name":"MY ADMIN PANEL",
+    "search-name":"Search",
+    "panel-menu":"Menu",
+    "users-name":"USERS",
+    "customers-name":"CUSTOMERS",
+    "employees-name":"EMPLOYEES",
+    "products-name":"PRODUCTS",
+    "sales-name":"SALES",
+    "calendar-name":"CALENDAR",
+    "works-name":"Our Work",
+    "faqs-name":"FAQS",
+    "total-sale":"Total Sale",
+    "date":"Date",
+    "details":"Details",
+    "choose":"Choose",
+
+    "add-user-button":"ADD NEW USER",
+    "add-customer-button":"ADD NEW CUSTOMER",
+    "add-employee-button":"ADD NEW EMPLLOYEE",
+    "add-products-button":"ADD NEW PRODUCT",
+
+    "events":"EVENTS",
+    "fullCalendar": {
+      "dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "monthNames": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+
+    "faq":"FAQ",
+    "faq-sub":"Frequently asked questions",
+
+    "charts":"DİAQRAMLAR",
+    "bar-chart":"Düz Diaqram",
+    "bar-chart-header":"BAR CHART",
+    "bar-chart-header-sub":"simple bar chart",
+    "pie-chart":"PIE CHART",
+    "pie-chart-header":"PİE CHART",
+    "pie-chart-header-sub":"Simple Pie Chart",
+    "line-chart":"Xəttli Diaqram",
+    "line-chart-header":"LİNE CHART",
+    "line-chart-header-sub":"Simple Line Chart",
+    "geo-chart":"Geo Diaqram",
+    "geo-chart-header":"GEO CHART",
+    "geo-chart-header-sub":"Simple Geo Chart",
+
+
+    "email-title-stat":"Emails Sent",
+    "sales-title-stat":"Sales Obtained",
+    "clients-title-stat":"New Clients",
+    "trafic-title-stat":"Trafic Received",
+    "revenue-title-stat":"Revenue Generated",
+    "transaction-title-stat":"Recent Transactions",
+    "campaign":"Campaign",
+    "generated-revenue-title-stat":"revenue generated",
+
+    "sales-quantity-title-stat":"Sales Quantity",
+    "geo-based-title-stat":"Geography Based Traffic",
+    "campaign-sub":"Includes extra misc  exenditures and coasts",
+
+
+    "transportation":"transportation",
+    "count":"count",
+    "contact-us":"CONTACT US",
+    "send":"SEND"
+
+    
+
+  
+
+    
+  }
+
